@@ -72,8 +72,6 @@ box-sizing: border-box;
     background: rgb(125, 91, 117); /* make this whatever you want */
     font-size: large;
     }
-
-
   @media (min-width: 973px) and (max-width:1140px) {
     .container{
         display: grid;
