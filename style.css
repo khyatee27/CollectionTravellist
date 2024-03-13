@@ -68,6 +68,10 @@ box-sizing: border-box;
     background-color:rgb(125, 91, 117);
     color: blanchedalmond;
 }
+.card:hover{
+    background: rgb(125, 91, 117); /* make this whatever you want */
+    font-size: large;
+    }
 
 
   @media (min-width: 973px) and (max-width:1140px) {
