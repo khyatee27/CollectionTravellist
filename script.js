@@ -97,7 +97,7 @@ document.addEventListener('DOMContentLoaded', function () {// to load all elemen
            <p>Place:${e.place}</p>
            <p>Activity:${e.Activity}</p>
            <p>Duration:${e.VisitDuration}</p>
-           <a href="${e.link}">Link for details</a>
+           <a href="${e.link}"><img src="images/trip.png"></a>
         `;
    
     });
